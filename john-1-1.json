@@ -1,0 +1,21 @@
+{
+  "verse": "John 1:1",
+  "greekText": "Ἐν ἀρχῇ",
+  "words": [
+    {
+      "id": 0,
+      "greek": "Ἐν",
+      "strongs": "G1722",
+      "englishWords": ["In"],
+      "alignment": [0]
+    },
+    {
+      "id": 1,
+      "greek": "ἀρχῇ",
+      "strongs": "G746",
+      "englishWords": ["the", "beginning"],
+      "alignment": [1, 2]
+    }
+  ],
+  "englishWordsFlat": ["In", "the", "beginning"]
+}
