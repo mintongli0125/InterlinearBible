@@ -3,21 +3,21 @@
   "greekText": "Ἐν ἀρχῇ",
   "words": [
     {"id": 0, "greek": "Ἐν", "strongs": "G1722", "englishWords": ["In"], "alignment": [0]},
-    {"id": 1, "greek": "ἀρχῇ", "strongs": "G746", "englishWords": ["the beginning"], "alignment": [1]}
-    {"id": 2, "greek": "ἦν", "strongs": "G2258", "englishWords": ["was"], "alignment": [2]}
-    {"id": 3, "greek": "ὁ", "strongs": "G3588", "englishWords": ["the"], "alignment": [3]}
-    {"id": 4, "greek": "λόγος", "strongs": "G3056", "englishWords": ["Word"], "alignment": [4]}
-    {"id": 5, "greek": "καὶ", "strongs": "", "englishWords": ["and"], "alignment": [5]}
-    {"id": 6, "greek": "ὁ", "strongs": "", "englishWords": ["the"], "alignment": [6]}
-    {"id": 7, "greek": "λόγος", "strongs": "", "englishWords": ["Word"], "alignment": [7]}
-    {"id": 8, "greek": "ἦν", "strongs": "", "englishWords": ["was"], "alignment": [8]}
-    {"id": 9, "greek": "πρὸς", "strongs": "", "englishWords": ["with"], "alignment": [9]}
-    {"id": 10, "greek": "τὸν", "strongs": "", "englishWords": [""], "alignment": [10]}
-    {"id": 11, "greek": "θεόν", "strongs": "", "englishWords": ["God"], "alignment": [11]}
-    {"id": 12, "greek": "καὶ", "strongs": "", "englishWords": ["and"], "alignment": [12]}
-    {"id": 13, "greek": "θεὸς", "strongs": "", "englishWords": ["God"], "alignment": [16]}
-    {"id": 14, "greek": "ἦν", "strongs": "", "englishWords": ["was"], "alignment": [15]}
-    {"id": 15, "greek": "ὁ", "strongs": "", "englishWords": ["the"], "alignment": [13]}
+    {"id": 1, "greek": "ἀρχῇ", "strongs": "G746", "englishWords": ["the beginning"], "alignment": [1]},
+    {"id": 2, "greek": "ἦν", "strongs": "G2258", "englishWords": ["was"], "alignment": [2]},
+    {"id": 3, "greek": "ὁ", "strongs": "G3588", "englishWords": ["the"], "alignment": [3]},
+    {"id": 4, "greek": "λόγος", "strongs": "G3056", "englishWords": ["Word"], "alignment": [4]},
+    {"id": 5, "greek": "καὶ", "strongs": "", "englishWords": ["and"], "alignment": [5]},
+    {"id": 6, "greek": "ὁ", "strongs": "", "englishWords": ["the"], "alignment": [6]},
+    {"id": 7, "greek": "λόγος", "strongs": "", "englishWords": ["Word"], "alignment": [7]},
+    {"id": 8, "greek": "ἦν", "strongs": "", "englishWords": ["was"], "alignment": [8]},
+    {"id": 9, "greek": "πρὸς", "strongs": "", "englishWords": ["with"], "alignment": [9]},
+    {"id": 10, "greek": "τὸν", "strongs": "", "englishWords": [""], "alignment": [10]},
+    {"id": 11, "greek": "θεόν", "strongs": "", "englishWords": ["God"], "alignment": [11]},
+    {"id": 12, "greek": "καὶ", "strongs": "", "englishWords": ["and"], "alignment": [12]},
+    {"id": 13, "greek": "θεὸς", "strongs": "", "englishWords": ["God"], "alignment": [16]},
+    {"id": 14, "greek": "ἦν", "strongs": "", "englishWords": ["was"], "alignment": [15]},
+    {"id": 15, "greek": "ὁ", "strongs": "", "englishWords": ["the"], "alignment": [13]},
     {"id": 16, "greek": "λόγος", "strongs": "", "englishWords": ["Word"], "alignment": [14]}
   ],
   "englishWordsFlat": ["In", "the beginning", "was", "the", "Word", "and", "the", "Word", "was", "with", "", "God,", "and", "the", "Word", "was", "God."]
