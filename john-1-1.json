@@ -1,6 +1,6 @@
 {
   "verse": "John 1:1",
-  "greekText": "Ἐν ἀρχῇ",
+  "greekText": "Ἐν ἀρχῇ ἦν ὁ λόγος καὶ ὁ λόγος ἦν πρὸς τὸν θεόν καὶ θεὸς ἦν ὁ λόγος",
   "words": [
     {"id": 0, "greek": "Ἐν", "strongs": "G1722", "englishWords": ["In"], "alignment": [0]},
     {"id": 1, "greek": "ἀρχῇ", "strongs": "G746", "englishWords": ["the beginning"], "alignment": [1]},
