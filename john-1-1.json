@@ -20,5 +20,5 @@
     {"id": 15, "greek": "ὁ", "strongs": "", "englishWords": ["the"], "alignment": [13]},
     {"id": 16, "greek": "λόγος", "strongs": "", "englishWords": ["Word"], "alignment": [14]}
   ],
-  "englishWordsFlat": ["In", "the beginning", "was", "the", "Word", "and", "the", "Word", "was", "with", "", "God,", "and", "the", "Word", "was", "God."]
+  "englishWordsFlat": ["In", "the beginning", "was", "the", "Word,", "and", "the", "Word", "was", "with", "", "God,", "and", "the", "Word", "was", "God."]
 }
